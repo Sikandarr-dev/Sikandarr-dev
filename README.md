@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**Sikandarr-dev/Sikandarr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My GitHub Visitors
+![](https://visitor-badge.glitch.me/badge?page_id=sikandarr-dev)
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm [Sikandar Sadiq](https://www.linkedin.com/in/), a  🚀 from Pakistan PK, 
+
+   
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning MultiCloud Networking
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [Linkedin](#)
+- 📝[Resume](#)
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sikandarr-dev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+</details>
