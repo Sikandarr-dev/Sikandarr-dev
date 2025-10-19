@@ -11,7 +11,7 @@ Hi, I'm [Sikandar Sadiq](www.linkedin.com/in/sikandar-sadiq-7738221b9), a 🚀 f
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on retail project;
-- 🌱 I’m currently learning MultiCloud Networking
+- 🌱 I’m currently learning Data Governance & Quality
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/sikandar-sadiq-7738221b9)
 
