@@ -5,16 +5,15 @@
 
 <br />
 
-Hi, I'm [Sikandar Sadiq](https://www.linkedin.com/in/), a  🚀 from Pakistan PK, 
+Hi, I'm [Sikandar Sadiq](www.linkedin.com/in/sikandar-sadiq-7738221b9), a 🚀 from Pakistan PK, 
 
    
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍💻 I’m currently working on retail project;
 - 🌱 I’m currently learning MultiCloud Networking
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Linkedin](#)
-- 📝[Resume](#)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/sikandar-sadiq-7738221b9)
 
 <details>
 <summary>📈 My GitHub Stats</summary>
